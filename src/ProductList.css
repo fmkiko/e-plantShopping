@@ -191,6 +191,10 @@ body {
     font-size: 22px;
 
 }
+.cart_quantity_count:hover {
+    cursor: pointer;
+}
+
 .plantname_heading{
    display: flex;
    align-items: center;
